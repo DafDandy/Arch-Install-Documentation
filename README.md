@@ -1,5 +1,5 @@
 # Endevour OS New Install
-## Grab the latest LTS image from Endevour:
+## Grab the image from Endevour:
 	https://endeavouros.com/
 
 
@@ -13,9 +13,9 @@
 
 This is usually by hitting F12 during startup
 
-Once you successfully boot you'll be met at the desktop with the ubuntu installer as an icon. 
+Once you successfully boot you'll be met at the desktop with the endevouros installer as an icon. 
+![image](https://github.com/user-attachments/assets/0d9b4934-ac1f-4667-a482-00defe873fdf)
 
-![image](https://github.com/DafDandy/ubuntu_new_install/assets/102477185/6fd23204-3c50-4aa5-b2fa-62571d89c924)
 
 Run through the installer wizard just as you would with any windows install by selecting the drive you want to install it on, setting up the user name and password and optional encryption level.
 
